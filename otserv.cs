@@ -2,11 +2,11 @@
 
 namespace YurOTSharp
 {
-    class Program
+    class otserv
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Server Running...");
         }
     }
 }
